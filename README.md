@@ -4,7 +4,7 @@ This project aims to predict the likelihood of heart disease based on various cl
 
 # Project Overview
 
-#Model: 
+# Model: 
 Logistic Regression with gradient descent and L1/L2 regularization to improve generalization and prevent overfitting.
 
 # Accuracy: 
